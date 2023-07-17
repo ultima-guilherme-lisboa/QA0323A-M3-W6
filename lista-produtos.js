@@ -10,7 +10,12 @@ export default class ListaProdutos {
     }
 
     static getProduto (id) {
-        console.log("Retorna detalhe do produto")
+        console.log("Obter Catogoria")
+        console.log("Retorna detalhe do produto + categoria")
+    }
+
+    static getProdutosSimilares (categoria) {
+        console.log("Desevolve produtos simlares")
     }
 }
 
