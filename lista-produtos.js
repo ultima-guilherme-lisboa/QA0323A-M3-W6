@@ -9,7 +9,7 @@ export default class ListaProdutos {
         console.log("Lista produtos")
     }
 
-    static getProduto (id) {
+    static getProduto (idProduto) {
         console.log("Obter Catogoria")
         console.log("Retorna detalhe do produto + categoria")
     }
