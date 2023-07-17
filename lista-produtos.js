@@ -5,13 +5,13 @@ export default class ListaProdutos {
         console.log("Abrir home")
     }
 
-    static listaProdutos () {
-        console.log("Lista produtos")
-    }
-
     static getProduto (idProduto) {
         console.log("Obter Catogoria")
         console.log("Retorna detalhe do produto + categoria")
+    }
+
+    static listaProdutos () {
+        console.log("Lista produtos")
     }
 
     static getProdutosSimilares (categoria) {
