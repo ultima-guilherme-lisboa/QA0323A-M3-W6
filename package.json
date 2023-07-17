@@ -1,0 +1,16 @@
+{
+  "name": "qa0323a-m3-w6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "carinho-compra.js",
+  "scripts": {
+    "test": "jest",
+    "test:sum": "jest sum.test.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
